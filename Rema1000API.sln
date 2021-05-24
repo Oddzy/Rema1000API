@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rema1000API", "Rema1000API\Rema1000API.csproj", "{7AE8E4F0-2C6E-4EEE-9F60-2C2E9EC5DF53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{4F543EF7-F968-4620-A649-825D896CD2FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AE8E4F0-2C6E-4EEE-9F60-2C2E9EC5DF53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE8E4F0-2C6E-4EEE-9F60-2C2E9EC5DF53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE8E4F0-2C6E-4EEE-9F60-2C2E9EC5DF53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE8E4F0-2C6E-4EEE-9F60-2C2E9EC5DF53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F543EF7-F968-4620-A649-825D896CD2FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F543EF7-F968-4620-A649-825D896CD2FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F543EF7-F968-4620-A649-825D896CD2FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F543EF7-F968-4620-A649-825D896CD2FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3147C6E-0342-4091-9E63-4D6B672C9BC7}
+	EndGlobalSection
+EndGlobal
